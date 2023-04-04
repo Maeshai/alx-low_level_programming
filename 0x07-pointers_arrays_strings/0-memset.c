@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _memset - fills memory with a constant byte
- * @s: to put tht const
+ * @s: to put the const
  * @b: const
  * @n: number of bytes to use
  * Return: pointer s
