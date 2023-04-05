@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strchr - a function that locates a character in a string
- * @s: pointer to put thet const
+ * @s: pointer to put the const
  * @c: const
  * Return: Always 0
  */
