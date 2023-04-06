@@ -3,6 +3,7 @@
 /**
  * is_prime_number - test if n is a prime number or not
  * @n: number to assess
+ * @i: iterator
  * Return: returns 1 if the input integer, otherwise return 0
  */
 
