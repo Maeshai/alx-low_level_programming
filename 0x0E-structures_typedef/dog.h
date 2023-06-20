@@ -4,7 +4,8 @@
  * struct dog - Short description
  * @name: First member
  * @owner: Second member
- * @age: Third member 
+ * @age: Third member
+ *
  * Description: Longer description
  */
 typedef struct dog
